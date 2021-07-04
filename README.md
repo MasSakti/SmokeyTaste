@@ -1,6 +1,7 @@
 # SmokeyTaste
 Android Project about smoking shop for TechnoFest 2.0
 
+Made with Android Studio
 
 <!-- CONTACT -->
 ## Contact
