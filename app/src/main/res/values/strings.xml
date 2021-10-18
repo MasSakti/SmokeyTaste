@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ProjectUAS</string>
     <string name="mapbox_access_token">
-        pk.eyJ1IjoibWFzc2FrdGkiLCJhIjoiY2twYzJucTBkMTJ0ZDJucGVpZzIzaTh1MSJ9.Sy0gPvNucBPCseVi0Z4EXw</string>
+        pk.eyJ1IjoibWFzc2FrdGkiLCJhIjoiY2t1cWkxb3VwMG5yZjJvczd2YTBtMGZqYiJ9.8sPb1M0LhaioxVJjd_mJbg</string>
     <string name="action_sign_in_short">Register</string>
     <string name="email">Email</string>
     <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
