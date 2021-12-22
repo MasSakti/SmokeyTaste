@@ -7,6 +7,12 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e0bae82c86e88ba47487924d45a597c/jetified-mapbox-android-core-1.3.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e0bae82c86e88ba47487924d45a597c/jetified-mapbox-android-core-1.3.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e0bae82c86e88ba47487924d45a597c/jetified-mapbox-android-core-1.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97517836b032aee560708f09d2013d57/jetified-mapbox-android-core-1.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97517836b032aee560708f09d2013d57/jetified-mapbox-android-core-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97517836b032aee560708f09d2013d57/jetified-mapbox-android-core-1.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ca2f0ba6060f5eed5d04bc2013ba338/jetified-mapbox-android-core-1.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ca2f0ba6060f5eed5d04bc2013ba338/jetified-mapbox-android-core-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ca2f0ba6060f5eed5d04bc2013ba338/jetified-mapbox-android-core-1.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-core/1.3.0/ab614b4ade43489d61a7fff15dc876c932bf8de3/mapbox-android-core-1.3.0-javadoc.jar!/" />
